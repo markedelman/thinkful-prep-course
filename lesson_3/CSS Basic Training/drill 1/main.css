@@ -1,0 +1,18 @@
+main {
+  padding: 60px;
+}
+
+.blue {
+  background-color: blue;
+  height: 60px;
+  width: 60px;
+  margin-bottom: 100px;
+}
+
+.red {
+  background-color: red;
+  width: 200px;
+  height: 250px;
+  margin-bottom: 175px;
+  border: 1px solid;
+}
